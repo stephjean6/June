@@ -36,7 +36,7 @@ ul {
   }  
 }
 header {
-  background-image: url('../Gig-Harbor-Banner.jpg');
+  background-image: url('../images/Gig-Harbor-Banner.jpg');
   background-attachment: scroll;
   background-position: center;
   background-repeat: repeat-x;
@@ -59,7 +59,7 @@ li a:active {
 @media only screen and (max-width: 600px) {
 header {
   justify-content: center;
-  background-image: url('../Gig-Harbor-Banner-Cropped.jpg');
+  background-image: url('Gig-Harbor-Banner-Cropped.jpg');
   }  
 }
 h1 {
